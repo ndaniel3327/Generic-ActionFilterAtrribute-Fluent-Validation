@@ -1,0 +1,6 @@
+@BookzoneProjNituDaniel_HostAddress = http://localhost:5197
+
+GET {{BookzoneProjNituDaniel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
